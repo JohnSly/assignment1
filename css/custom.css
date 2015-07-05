@@ -3,7 +3,7 @@
     margin-left: 540px;
 }
 #chromeimage{
-    width: 70px;
+    width: 74px;
     height: 64px;
 }
 #chromebadge{
@@ -13,6 +13,9 @@
     color: black;
     font-size: 14px;
     font-style: normal;
+}
+.item{
+    font-size: 14px;
 }
    
     
